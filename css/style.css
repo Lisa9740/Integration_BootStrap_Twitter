@@ -6,7 +6,8 @@ p{
     font-family: "Helvetica Neue",sans-serif;
 }
 h1{
-    font-family: "Segoe UI",sans-serif;
+    font-family: "Segoe UI Symbol",sans-serif;
+    font-weight: bold;
 }
 .color-grey{
     color:#5a5a5a;
